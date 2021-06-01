@@ -1,5 +1,5 @@
 ---
 title: "A summary of Nicholas Gao"
 ---
-
-Hello there. My name is Nicholas Gao, and this a website was mmade to breifly introduce and summarsize me to others.
+I'm glad you are here. I plan to talk about ...
+myself Nicholas Gao, and a breif introduce about me for others.
