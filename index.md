@@ -2,4 +2,4 @@
 title: "A summary of Nicholas Gao"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello there. My name is Nicholas Gao, and this a website was mmade to breifly introduce and summarsize me to others.
